@@ -16,4 +16,4 @@ Raspberry Pi-powered landline phone for art installation
 - [N-Channel Power MOSFET](https://tinkersphere.com/power/434-n-channel-power-mosfet-30v-60a.html)
 
 
-More info on the [Wiki](https://github.com/jonathanbfriedman/pi-phone/wiki).
+More info on the [Wiki](https://github.com/jonbenfri/pi-phone/wiki).
